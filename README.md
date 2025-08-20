@@ -5,6 +5,8 @@
 A custom **PowerApps PCF Component** that integrates the [Quill Rich Text Editor](https://quilljs.com/) into your PowerApps apps.  
 It allows rich text editing with formatting options like bold, italic, underline, bullet lists, and more.
 
+**Installation:** Download from Releases section or from bin/Release/
+
 ## ✨ Features
 📝 Rich Text Editing Capabilities
 * **WYSIWYG Editor**: Full-featured rich text editing with real-time preview
