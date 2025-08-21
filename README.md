@@ -7,6 +7,9 @@ It allows rich text editing with formatting options like bold, italic, underline
 
 **Installation:** Download from Releases section or from bin/Release/
 
+<img src="screenshots/QillRTE1.png" alt="Quill Custom Rich Text Editor For PowerApps" height="180px"> <img src="screenshots/QuillRTE2.png" alt="Quill Custom Rich Text Editor For PowerApps" height="180px">
+
+
 ## ✨ Features
 📝 Rich Text Editing Capabilities
 * **WYSIWYG Editor**: Full-featured rich text editing with real-time preview
